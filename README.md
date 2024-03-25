@@ -18,9 +18,9 @@
 
 ## Skills
 
-  🎉 <b>Frontend : </b> React / Next.js, Vue.js / Nuxt.js, Angular, Redux / Context, Hooks, Styled components, Tailwind CSS / SASS / SCSS, GraphQL, React Native, Ajax, jQuery, Bootstrap, UI / UX, Webpack
-  🩺 <b>Backend : </b> Node.js / Express.js / Nest.js, Laravel, RESTful API, DevOps, CI / CD
-  🧩 <b>Database : </b> MySQL, PostgreSQL, MongoDB, SQLite, Firebase
-  ⛓️  <b>Blockchain : </b> Solidity, Smart contract, Web3 / Ethers.js, NFT Marketplace / Auction, Launchpad / DAO / ICO / IDO platforms, CEX / DEX / Defi, Crypto wallets / Trading Apps
-  💬 <b>Language : </b> C, C++, Python, PHP, Solidity, HTML, CSS, Javascript, Typescript
-  📫 <b>Interesting : </b> Football, billiard, AI/ML, Tennis
+  🎉 <b>Frontend : </b> React / Next.js, Vue.js / Nuxt.js, Angular, Redux / Context, Hooks, Styled components, Tailwind CSS / SASS / SCSS, GraphQL, React Native, Ajax, jQuery, Bootstrap, UI / UX, Webpack <br>
+  🩺 <b>Backend : </b> Node.js / Express.js / Nest.js, Laravel, RESTful API, DevOps, CI / CD <br>
+  🧩 <b>Database : </b> MySQL, PostgreSQL, MongoDB, SQLite, Firebase <br>
+  ⛓️  <b>Blockchain : </b> Solidity, Smart contract, Web3 / Ethers.js, NFT Marketplace / Auction, Launchpad / DAO / ICO / IDO platforms, CEX / DEX / Defi, Crypto wallets / Trading Apps <br>
+  💬 <b>Language : </b> C, C++, Python, PHP, Solidity, HTML, CSS, Javascript, Typescript <br>
+  📫 <b>Interesting : </b> Football, billiard, AI/ML, Tennis 
